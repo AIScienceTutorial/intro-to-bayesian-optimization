@@ -4,6 +4,12 @@ Optimal Experimental Design methods help you design experiments as you perform t
 which experiments will be the most valuable given previous results.
 These notebooks introduce the fundamentals and tools used to perform optimizations.
 
+## Quickstart
+
+To run this notebook using binder, click this link: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AIScienceTutorial/intro-to-bayesian-optimization/main)
+
+To install on your computer, first clone the repository (see instructions in top left) then follow installation instructions [below](#installation).
+
 ## Learning Objectives
 
 The learning objectives for this module are:
