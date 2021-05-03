@@ -6,7 +6,7 @@ These notebooks introduce the fundamentals and tools used to perform optimizatio
 
 ## Quickstart
 
-To run this notebook using binder, click this link: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AIScienceTutorial/intro-to-bayesian-optimization/main)
+To run this notebook using binder, click this link: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AIScienceTutorial/intro-to-bayesian-optimization/main?urlpath=lab)
 
 To install on your computer, first clone the repository (see instructions in top left) then follow installation instructions [below](#installation).
 
