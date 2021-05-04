@@ -218,4 +218,4 @@ def set_dihedrals(atoms: Atoms, angles: List[float], dihedrals: List[DihedralInf
     for a, di in zip(angles, dihedrals):
         output.set_dihedral(*di.chain, a, indices=di.group)
     return output
-    
+
